@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Menu_Secimi(switch-case)", "Menu_Secimi(switch-case)\Menu_Secimi(switch-case).csproj", "{F128D9B1-697E-419A-85F5-C55EABB8C876}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F128D9B1-697E-419A-85F5-C55EABB8C876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F128D9B1-697E-419A-85F5-C55EABB8C876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F128D9B1-697E-419A-85F5-C55EABB8C876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F128D9B1-697E-419A-85F5-C55EABB8C876}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {356D48C7-9C43-4B03-8E17-A38BF2851405}
+	EndGlobalSection
+EndGlobal
